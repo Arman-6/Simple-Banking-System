@@ -258,6 +258,6 @@ int main() {
 	    cout << "Invalid choice\n";
 	}
     } while (ch != 5);
-    retaurn 0;
+    return 0;
 }
 
